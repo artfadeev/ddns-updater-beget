@@ -1,0 +1,11 @@
+{
+	"settings": [
+		{
+			"provider": "beget",
+			"domain": "YOUR_FULLY_QUALIFIED_BEGET_DOMAIN_NAME",
+			"password": "YOUR_BEGET_API_PASSWORD_GOES_HERE",
+			"login": "YOUR_BEGET_LOGIN_GOES_HERE",
+			"priority": 10
+		}
+	]
+}

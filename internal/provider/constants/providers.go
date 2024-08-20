@@ -6,6 +6,7 @@ import "github.com/qdm12/ddns-updater/internal/models"
 const (
 	Aliyun       models.Provider = "aliyun"
 	AllInkl      models.Provider = "allinkl"
+	Beget        models.Provider = "beget"
 	Changeip     models.Provider = "changeip"
 	Cloudflare   models.Provider = "cloudflare"
 	Custom       models.Provider = "custom"
